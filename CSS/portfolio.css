@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pf_general {
+    background-color: #161C2D;
+}
+
+.pf_body {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    padding-bottom: 70px;
+}
+
+.pf_total {
+    background-image: url(../ASSETS/aerial-beautiful-shot-seashore-with-hills-background-sunset.jpg);
+    background-position: 2px;
+    padding-bottom: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FAFAFA;
+}
+
+.pf_major {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    font-family: arial;
+    font-size: 12px;
+}
+
+.pf_main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 30px;
+}
+
+.pf_main button {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: none;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.pf_header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pf_header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.pf_header button {
+    border: none;
+    border-radius: 90px;
+    background-color: #161C2D;
+}
+
+.pf_header h1 {
+    padding-top: 50px;
+    font-family: arial;
+    font-size: 40px;
+    color: #FAFAFA;
+}
+
+.pf_header p {
+    font-family: arial;
+    font-size: 18px;
+    color: #FAFAFA;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+.pf_level {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    color: #FAFAFA;
+    font-family: arial;
+    padding-top: 60px;
+}
+
+.pf_level img {
+    width: 400px;
+    height: 450px;
+}
+
+.pf_about p{
+    line-height: 25px;
+}
+
+.pf_me {
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.pf image {
+    width: 48%;
+}
+
+.pf_discover {
+    width: 58%;
+}
+
+.pf_name {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    line-height: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.pf_about h2{
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+.pf_develop {
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.pf_phone {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+.pf_age {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+.pf_download {
+    padding-top: 60px;
+}
+
+.pf_download button {
+    padding: 10px;
+    color: black;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: 700;
+}
