@@ -1,0 +1,8 @@
+{
+  "update": [
+    {
+      "source": "/",
+      "destination": "/portfolio.html"
+    }
+  ]
+}
